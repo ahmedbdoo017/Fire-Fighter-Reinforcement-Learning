@@ -4,7 +4,7 @@ A Deep Reinforcement Learning agent designed to **fight forest fires**, navigate
 
 ---
 
-## Project Intro Video (Optional)
+## Project Intro Video
 
 <img src="src\assets\agent&env.gif" width="600" />
 
