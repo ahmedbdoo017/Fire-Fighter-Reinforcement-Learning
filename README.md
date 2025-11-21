@@ -1,12 +1,10 @@
 # Fire Fighter – Reinforcement Learning Project
 
-A Deep Reinforcement Learning agent designed to **fight forest fires**, navigate obstacles, and protect the environment using **DQN** and **Policy Gradient** algorithms.
-
----
-
 ## Project Intro Video
 
 <img src="src\assets\agent&env.gif" width="600" />
+
+A Deep Reinforcement Learning agent designed to **fight forest fires**, navigate obstacles, and protect the environment using **DQN** and **Policy Gradient** algorithms.
 
 ---
 
