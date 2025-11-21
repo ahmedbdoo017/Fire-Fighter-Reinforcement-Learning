@@ -50,7 +50,7 @@ The environment updates every timestep, allowing fire to spread if not controlle
 
 ---
 
-## 🤖 Agent Actions
+##  Agent Actions
 
 The agent can perform:
 
