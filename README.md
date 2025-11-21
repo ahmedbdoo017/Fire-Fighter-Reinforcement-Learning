@@ -4,7 +4,7 @@ A Deep Reinforcement Learning agent designed to **fight forest fires**, navigate
 
 ---
 
-## 🎬 Project Intro Video (Optional)
+## Project Intro Video (Optional)
 
 <img src="src\assets\agent&env.gif" width="600" />
 
@@ -57,7 +57,7 @@ The agent can perform:
 * Move **Up / Down / Left / Right**
 * **Extinguish Fire** at its current position
 
-### 🎁 Reward System
+###  Reward System
 
 * **+ Reward** for extinguishing fires
 * **+ Reward** for preventing the spread
@@ -66,9 +66,9 @@ The agent can perform:
 
 ---
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
-### 1️⃣ Deep Q-Network (DQN)
+### Built Deep Q-Network (DQN) from scratch
 
 DQN approximates the Q-value function using a neural network.
 
@@ -85,7 +85,7 @@ DQN approximates the Q-value function using a neural network.
 
 ---
 
-### 2️⃣ Policy Gradient (PG)
+### Built Policy Gradient (PG) from scratch
 
 Policy Gradient directly optimizes the probability distribution of actions.
 
@@ -98,6 +98,6 @@ Policy Gradient directly optimizes the probability distribution of actions.
 5. Update the policy using Gradient Ascent
 
 
-## 🖼️ PG with Environment using weights
+##  PG with Environment using weights
 
 > go to src\assets\agent_using_PG_model_weights.wmv
